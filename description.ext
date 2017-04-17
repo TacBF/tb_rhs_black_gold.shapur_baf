@@ -1,0 +1,11 @@
+#define TB_loadingScreen_imagePath "tb_Black_Gold.jpg"
+
+author="Gunther.S; Maintained by: TacBF Team.";
+onLoadName="Black Gold";
+onLoadMission="Tactical Battlefield: <t color='#FF00A5A5'>Advance and Secure (A&amp;S).</t><br />Desert, industrial, towns.<br /><t color='#FF00AEFF'>NATO</t> = APC, light vehicles (HMG). FOs, MWs.<br /><t color='#FFD66361'>INS</t> = light vehicles (HMG). HOs, MWs.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
